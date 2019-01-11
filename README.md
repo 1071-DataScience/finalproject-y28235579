@@ -5,9 +5,9 @@
 * < 賴以立, 107753022>
 
 ### Goal
-As a travel agency, the most difficult thing is to decide a order whether would be canceled or not in the end,so 
-we want to prdict the order depend on its data about time,price,people amount and so on.It's a kaggle competition,and 
-data is provided by 
+As a travel agency, the most difficult thing is to decide whether a order would be canceled or not in the end,so 
+we want to prdict the order depend on its data about time,price,people amount and so on. It's a T-brain competition host by
+Trend Micro, and data is provided by Lion Travel.
 
 ### demo 
 You should provide an example commend to reproduce your result
