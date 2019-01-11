@@ -27,7 +27,9 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### data
 
-* T-brain and Lion Travel prvided the data.
+* T-brain host competition and  Lion Travel prvided the data.
+![image](https://github.com/1071-DataScience/finalproject-y28235579/blob/master/docs/lion.png)
+![image](https://github.com/1071-DataScience/finalproject-y28235579/blob/master/docs/tbrain.jpg)
 * Input format is csv  
   * airline.csv      
   * group.csv    
