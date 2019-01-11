@@ -41,7 +41,6 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### results
 
-* Which metric do you use 
-  * precision, recall, R-square
-* Is your improvement significant?
-* What is the challenge part of your project?
+* we use AUC as our metrics.
+* the original model's AUC was not good enough, but when we include source column to our model, AUC increase almost 10% !
+* The most difficult part is to find what is good feature to help predict, 
