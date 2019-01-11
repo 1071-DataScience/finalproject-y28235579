@@ -29,10 +29,10 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 * T-brain and Lion Travel prvided the data.
 * Input format is csv  
-* airline.csv   
-        * group.csv
-        * order.csv
-        * raining-set.csv
+        * airline.csv      
+        * group.csv    
+        * order.csv    
+        * training-set.csv    
         
 * there is no missing value, but we try so hard to find useful featues among a lot of details in data. 
 
