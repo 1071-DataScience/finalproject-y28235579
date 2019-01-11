@@ -20,16 +20,21 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1071_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jan. 15**
+* 1071_datascience_FP_<107753022|deal or not>.ppt
 * Any related document for the final project
   * papers
   * software user guide
 
 ### data
 
-* T-brain and Lion Travel prvided the data
-* Input format is .csv
-* there is no missing value,but we try so hard to find useful featues among a lot of details in data. 
+* T-brain and Lion Travel prvided the data.
+* Input format is csv
+        airline.csv
+        group.csv
+        order.csv
+        training-set.csv
+        
+* there is no missing value, but we try so hard to find useful featues among a lot of details in data. 
 
 ### code
 
