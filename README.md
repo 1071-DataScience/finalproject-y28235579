@@ -43,7 +43,9 @@ python ./run.py data.csv output_file.csv [folds]
 * there is no missing value, but we try so hard to find useful featues among a lot of details in data. 
 
 ### code
-
+* include    
+  * prepare_data.py    
+  * run.py    
 * We use random forest to predict.
 * we found that most of data are not deal in the end, and it's nearly 80%, so we use the null
   model which always predict not deal.
