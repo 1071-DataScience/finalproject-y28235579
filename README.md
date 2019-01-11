@@ -20,7 +20,7 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 ## Folder organization and its related information
 
 ### docs
-* 1071_datascience_FP_<107753022|deal or not>.ppt
+* 1071_datascience_FP_deal or not.ppt
 * Any related document for the final project
   * papers
   * software user guide
