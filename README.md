@@ -1,11 +1,13 @@
-# Deal or not
+# Deal or not !
 
 ### Groups
 * < 蔡政憲, 107753034 >
 * < 賴以立, 107753022>
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
+As a travel agency, the most difficult thing is to decide a order whether would be canceled or not in the end,so 
+we want to prdict the order depend on its data about time,price,people amount and so on.It's a kaggle competition,and 
+data is provided by 
 
 ### demo 
 You should provide an example commend to reproduce your result
