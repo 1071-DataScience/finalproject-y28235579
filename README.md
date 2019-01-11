@@ -27,17 +27,17 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### data
 
-* Source
-* Input format
-* Any preprocessing?
-  * Handle missing data
-  * Scale value
+* T-brain and Lion Travel prvided the data
+* Input format is .csv
+* there is no missing value,but we try so hard to find useful featues among a lot of details in data. 
 
 ### code
 
-* Which method do you use?
-* What is a null model for comparison?
-* How do your perform evaluation? ie. Cross-validation, or extra separated data
+* We use random forest to predict.
+* we found that most of data are not deal in the end, and it's nearly 80%, so we use the null
+  model which always predict not deal.
+* Because we don't have test data's correct output, so we cut the train data into another train and test data,with cross-validation,to
+  evaluate performance.
 
 ### results
 
