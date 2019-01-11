@@ -31,7 +31,8 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 * Input format is csv  
   * airline.csv      
   * group.csv    
-  * order.csv    
+  * order.csv  
+  * cashe_map.csv
   * training-set.csv    
         
 * there is no missing value, but we try so hard to find useful featues among a lot of details in data. 
