@@ -1,9 +1,8 @@
-# < Title of your final project >
+# Deal or not
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
+* < 蔡政憲, 107753034 >
+* < 賴以立, 107753022>
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
