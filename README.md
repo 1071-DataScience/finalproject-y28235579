@@ -14,7 +14,7 @@ Trend Micro, and data is provided by Lion Travel.
 You should provide an example commend to reproduce your result
 ```R
 python ./prepare_data.py  order_file_name.csv group_file_name.csv airline_file_name.csv training-set.csv data.csv
-```R
+```
 python ./run.py data.csv output_file.csv [folds]
 
 ## Folder organization and its related information
