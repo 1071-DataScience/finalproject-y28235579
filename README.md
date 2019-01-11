@@ -28,8 +28,8 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 ### data
 
 * T-brain and Lion Travel prvided the data.
-* Input format is csv
-        * airline.csv
+* Input format is csv  
+* airline.csv   
         * group.csv
         * order.csv
         * raining-set.csv
@@ -46,6 +46,6 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### results
 
-* we use AUC as our metrics.
+* Primarily,we use AUC as our metrics.
 * the original model's AUC was not good enough, but when we include source column as a feature to our model, AUC increase almost 10% !
 * The most difficult part is to find what is good feature to help predict, and which predict model will be good for this dataset. 
