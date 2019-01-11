@@ -1,4 +1,5 @@
 # Deal or not !
+![image](https://github.com/1071-DataScience/finalproject-y28235579/blob/master/docs/deal%20or%20not.png)
 
 ### Groups
 * < 蔡政憲, 107753034 >
