@@ -11,7 +11,6 @@ we want to prdict the order depend on its data about time,price,people amount an
 Trend Micro, and data is provided by Lion Travel.
 
 ### demo 
-You should provide an example commend to reproduce your result
 * Prepare data    
 ```R
 python ./prepare_data.py  order_file_name.csv group_file_name.csv airline_file_name.csv training-set.csv data.csv
