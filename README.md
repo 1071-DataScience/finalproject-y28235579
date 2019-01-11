@@ -13,9 +13,9 @@ Trend Micro, and data is provided by Lion Travel.
 ### demo 
 You should provide an example commend to reproduce your result
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
-```
-* any on-line visualization
+python ./prepare_data.py  order_file_name.csv group_file_name.csv airline_file_name.csv training-set.csv data.csv
+```R
+python ./run.py data.csv output_file.csv [folds]
 
 ## Folder organization and its related information
 
